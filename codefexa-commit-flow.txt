@@ -1,1 +1,1 @@
-CodeFexa GitHub commit-flow test
+CodeFexa GitHub commit-flow test modified\n
